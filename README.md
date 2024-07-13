@@ -10,8 +10,10 @@ The extension works in either Google Chrome or Edge desktop browsers.
 
 Deploy it at home to protect your family or at school to protect a whole bunch of kids.
 
-## Currently pending review in the Chrome Web Store.
-To run locally, you can install using the Chrome Developer tools.
+## Installation
+#Currently pending review in the Chrome Web Store. You can install from there soon.
+
+In the meantime, to run locally, you can install using the Chrome Developer tools.
 1. Extensions -> Manage Extensions
 2. Enable developer tools
 3. Load Unpacked.
