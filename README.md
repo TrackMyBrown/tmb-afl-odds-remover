@@ -8,7 +8,7 @@ This protects the vulnerable in our community. Those struggling with gambling ad
 
 The extension works in either Google Chrome or Edge desktop browsers.
 
-Deploy it at home to protect your family or at school to protect a whole bunch of kids.
+Deploy it at home to protect your family or at school to protect the next generation of footy fans.
 
 ## Installation
 #Currently pending review in the Chrome Web Store. You can install from there soon.
